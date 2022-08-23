@@ -1,0 +1,2 @@
+- Maven
+  + mvn clean install
